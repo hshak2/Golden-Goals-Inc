@@ -3,6 +3,7 @@ Golden Goals is a fully responsive, elegant and modern website designed for a fi
 
 **Link to project:** https://thegoldengoals.netlify.app/
 
+<img width="1266" height="545" alt="picz" src="https://github.com/user-attachments/assets/5bb8f3e1-dba1-4ef6-a075-3f0e42406771" />
 
 
 
@@ -21,5 +22,6 @@ To further optimize the Golden Goals website, I will implement efficient coding 
 ## Lessons Learned:
 
 I gained valuable insights into creating a user-friendly and responsive website, understanding the importance of inclusive design principles to accomodate users with diverse needs. This project sharpened my skills in utilizing SCSS for more efficient styling and reinforced the significance of responsive web design in delivering a modern and accessible user experience.
+
 
 
